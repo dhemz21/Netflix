@@ -1,8 +1,4 @@
 @media (max-width:1326px){
-    .btn_lang p{
-        font-size: 12px;
-        display: none;
-    }
     main{
         height: 120vh;
     }

@@ -5,7 +5,12 @@
 
 .buttons{
     display: flex;
-    
+    justify-content: center;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .btn_signin, .btn{
     border-radius: 3px;
@@ -245,7 +250,7 @@ input{
     margin-bottom: 1rem;
   }
 
-  .input_email1 form{
+  .input_email1 form button{
     display: flex;
     justify-content: center;
     margin-bottom: 5rem;
