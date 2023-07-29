@@ -1,0 +1,296 @@
+/* HEADER CONTENT */
+.net_icon img{
+    height: 40px;
+}
+
+.buttons{
+    display: flex;
+    
+}
+.btn_signin, .btn{
+    border-radius: 3px;
+    cursor: pointer;
+    /* margin-right: 11px; */
+}
+
+.btn_signin{
+    background-color: #E50914;
+    color: #fff;
+    height: 32px;
+    border: none;
+    font-size: 14px;
+    padding: 0px 16px;
+
+}
+
+.btn_lang i{
+padding: 0px 5px;
+}
+
+#caret_down{
+    font-size: 10px;
+}
+
+.btn{
+    background-color: #1a1a1a;
+    color: #fff;
+    height: 32px;
+    border: 1px solid #7a7a7a;
+    font-size: 16px;
+    padding: 0px 10px;
+    margin-right: 12px;
+}
+/* HEADER END */
+
+/* MAIN CONTENT */
+.main_content{
+    padding-left: 6rem;
+    padding-top: 6rem;
+    margin-bottom: 1rem;
+}
+.title h1{
+    font-size: 60px;
+    color: #fff;
+    font-weight: 900;
+    padding-bottom: 20px;
+}
+
+.title h2{
+    font-size: 26px;
+    color: #fff;
+    padding-bottom: 25px;
+
+}
+.title p{
+    font-size: 26px;
+    color: #fff;
+    padding-bottom: 16px;
+
+}
+
+.input_email form{ 
+    display: flex;
+}
+
+.input_email input[type="email"]::placeholder {
+    color: #ffffff !important;
+  }
+
+  .input_email input[type="email"]{
+    color: #ffffff !important;
+  }
+
+input{
+    padding: 16px;
+    font-size: 16px;
+    width: 24rem;
+    border-radius: 5px;
+    border: 1px solid #7a7a7a;
+    background-color: rgb(0, 0, 0, 0.8);
+}
+
+
+.btn_send_email{
+    padding: 16px 30px;
+    font-size: 24px;
+    border-radius: 5px;
+    border: none;
+    background-color: #E50914;
+    color: #fff;
+    margin-left: 8px;
+}
+
+/* SECTION CONTENT */
+.enjoy_tv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 60px;
+}
+.content_page{
+    padding-right: 40px;
+
+}
+.content_page h2{
+    font-size: 60px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.content_page p{
+    font-size: 26px;
+    color: #fff;
+
+}
+
+.tv {
+    height: 350px;
+}
+
+.download{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row-reverse;
+    margin: 0 60px;
+
+}
+
+.content_page2{
+    padding-left: 40px;
+}
+.content_page2 h2{
+    font-size: 60px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.content_page2 p{
+    font-size: 26px;
+    color: #fff;
+}
+.mobile {
+    height: 350px;
+}
+
+.watch_everywhere{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 60px;
+
+}
+.content_page3{
+    padding-left: 40px;
+}
+.content_page3 h2{
+    font-size: 60px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.content_page3 p{
+    font-size: 26px;
+    color: #fff;
+}
+.video{
+    height: 350px;
+}
+
+.create_profile{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row-reverse;
+    margin: 0 60px;
+
+}
+.content_page4{
+    padding-left: 40px;
+}
+.content_page4 h2{
+    font-size: 60px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.content_page4 p{
+    font-size: 26px;
+    color: #fff;
+
+}
+.kids_profile {
+    height: 350px;
+}
+/* SECTION END */
+
+.frequently_ask_question{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 24px;
+}
+.frequently{
+    font-size: 55px;
+    color: #fff;
+}
+
+.accordion{
+    padding: 0 7rem;
+    margin-bottom: 3rem;
+}
+/* Add styles for the accordion headers */
+.accordion-header {
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    background-color: #2c2c2c;
+    padding: 30px 20px;
+    margin-bottom: 10px;
+    height: 5rem;
+    color: #fff;
+    font-size: 24px;
+  }
+  
+  /* Hide the accordion content by default */
+  .accordion-content {
+    display: none;
+    padding: 10px;
+    border: 1px solid #ccc;
+    color: #fff;
+  }
+
+  .ready_to_watch{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    color: #fff;
+    margin-bottom: 1rem;
+  }
+
+  .input_email1 form{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5rem;
+  }
+  .input_email1 input[type="email"]::placeholder {
+    color: #ffffff !important;
+  }
+
+  .input_email1 input[type="email"]{
+    color: #ffffff !important;
+  }
+
+  /* FOOTER */
+
+  .main_footer{
+    padding: 0 7rem;
+
+  }
+  .contact{
+    display: inline-block;
+    color: #ccc;
+    text-decoration: underline;
+    cursor: pointer;
+    margin-bottom: 2rem;
+  }
+
+  .list_items {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .list_items li {
+    margin-bottom: 16px;
+    color: #ccc;
+    font-size: 16px;
+    flex-basis: calc(100% / 3); /* Distribute the list items in 6 equal columns */
+    list-style: none; /* Remove the default list styles */
+    text-decoration: underline;
+  }
+
+  .netflix_phi{
+    color: #ccc;
+    margin-top: 16px;
+    font-size: 14px;
+  }
+
+
+

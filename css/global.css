@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #000000;
+}
+
+.top_header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 48px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+
+}
+
+.mainpage{
+    padding: 0px 48px;
+}
+
+main{
+    background-image:linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.7) 100%), url(../img/netflix-background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    border-radius: 15px;
+}
+
+hr{
+    border: none; /* Remove default border */
+    height: 8px; /* Set the height of the horizontal rule */
+    background-color: #464646; /* Set the color of the horizontal rule */
+    margin: 40px 0; /* Add some vertical margin to adjust spacing */
+
+  
+}

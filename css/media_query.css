@@ -1,0 +1,398 @@
+@media (max-width:1326px){
+    .btn_lang p{
+        font-size: 12px;
+        display: none;
+    }
+    main{
+        height: 120vh;
+    }
+}
+
+@media (max-width:1090px){
+    .btn_lang p{
+        font-size: 12px;
+        display: none;
+    }
+    .content_page3 h2{
+        font-size: 50px;
+        color: #fff;
+        margin-bottom: 20px;
+    }
+    .video{
+        height: 290px;
+    }
+    .ready_to_watch{
+        text-align: center;
+        font-size: 18px;
+      }
+      .main_footer{
+        padding: 0 3.5rem;
+      }
+}
+
+@media (max-width:950px){
+    .btn_lang p{
+        font-size: 12px;
+        display: none;
+    }
+    .content_page p{
+        font-size: 20px;
+        color: #fff;
+    }
+    .content_page{
+        padding-right: 45px;
+    }
+    .content_page h2{
+        font-size: 45px;
+        color: #fff;
+        margin-bottom: 20px;
+    }
+      .content_page2 p{
+        font-size: 20px;
+        color: #fff;
+    }
+    .content_page2{
+        padding-right: 45px;
+    }
+    .content_page2 h2{
+        font-size: 45px;
+        color: #fff;
+        margin-bottom: 20px;
+    }
+    .content_page3 p{
+        font-size: 20px;
+        color: #fff;
+    }
+    .content_page3{
+        padding-right: 45px;
+    }
+    .content_page3 h2{
+        font-size: 45px;
+        color: #fff;
+        margin-bottom: 20px;
+    }
+    .content_page4 p{
+        font-size: 20px;
+        color: #fff;
+    }
+    .content_page4{
+        padding-right: 45px;
+    }
+    .content_page4 h2{
+        font-size: 45px;
+        color: #fff;
+        margin-bottom: 20px;
+    }
+    .accordion{
+        padding: 0 2rem;
+    }
+    
+}
+@media (max-width:945px){
+    .btn_lang p{
+        font-size: 12px;
+        display: none;
+    }
+    .enjoy_tv{
+        flex-wrap: wrap;
+    }
+    .content_page h2{
+        font-size: 35px;
+        text-align: center;
+    }
+    .content_page p{
+        text-align: center;
+    }
+    .download{
+        flex-wrap: wrap;
+    }
+    .content_page2 h2{
+        font-size: 35px;
+        text-align: center;
+
+    }
+    .content_page2 p{
+        text-align: center;
+    }
+    .watch_everywhere{
+        flex-wrap: wrap;
+    }
+    .content_page3 h2{
+        font-size: 35px;
+        text-align: center;
+    }
+    .content_page3 p{
+        text-align: center;
+    }
+    .create_profile{
+        flex-wrap: wrap;
+    }
+    .content_page4 h2{
+        font-size: 35px;
+        text-align: center;
+    }
+    .content_page4 p{
+        text-align: center;
+    }
+    .frequently_ask_question h2{
+        font-size: 45px;
+    }
+}
+@media (max-width: 850px){
+    .btn_lang p{
+        font-size: 12px;
+        display: none;
+    }
+    .main_footer{
+        padding: 0 1rem;
+      }
+}
+@media (max-width:780px){
+    .btn_lang p{
+        font-size: 12px;
+        display: none;
+    }
+    .title h1{
+        font-size: 50px;
+    }
+    .title h2{
+        font-size: 20px;
+    }
+    .title p{
+        font-size: 20px;
+    }
+    input{
+       width: 18rem;
+    }
+}
+
+@media (max-width:675px){
+    .btn_lang p{
+        font-size: 12px;
+        display: none;
+    }
+    .main_content{
+        padding-left: 3rem;
+    }
+    .frequently_ask_question h2{
+        font-size: 35px;
+    }
+    input{
+        width: 14rem;
+     }
+    .ready_to_watch{
+        text-align: center;
+        font-size: 16px;
+      }
+
+}
+
+@media (max-width: 615px){
+    .btn_lang p{
+        font-size: 12px;
+        display: none;
+    }
+    .main_content{
+        padding-left: 3rem;
+    }
+    .main_footer{
+        padding: 0 5px;
+      }
+}
+
+@media (max-width: 606px){
+    .btn_lang p{
+        font-size: 12px;
+        display: none;
+    }
+    .main_content{
+        padding-left: 3rem;
+    }
+    .input_email form{ 
+            flex-wrap: wrap;
+        }
+        .btn_send_email{
+            margin-top: 16px;
+        }
+        .input_email1 form{ 
+            flex-wrap: wrap;
+        }
+    }
+
+@media (max-width: 592PX){
+    .btn_lang p{
+        font-size: 12px;
+        display: none;
+    }
+    .main_content{
+        padding-left: 3rem;
+    }
+    .title h1{
+        font-size: 40px;
+    }
+    .title h2{
+        font-size: 15px;
+    }
+    .title p{
+        font-size: 15px;
+    }
+    input{
+       width: 18rem;
+    }
+    .frequently_ask_question h2{
+        font-size: 30px;
+    }
+}
+    
+@media (max-width: 590px){
+    .btn_lang p{
+        font-size: 12px;
+        display: none;
+    }
+    .main_content{
+        padding-left: 3rem;
+    }
+    .main_footer{
+        width: 100%;
+      }
+}
+
+@media (max-width: 515px){
+    .btn_lang p{
+        font-size: 12px;
+        display: none;
+    }
+    .main_content{
+        padding-left: 3rem;
+    }
+    .tv{
+        height: 250px;
+    }
+    .mobile{
+        height: 250px;
+    }
+    .video{
+        height: 200px;
+    }
+    .kids_profile{
+        height: 250px;
+    }
+}
+
+@media (max-width: 480px){
+    .btn_lang p{
+        font-size: 12px;
+        display: none;
+    }
+    .main_content{
+        padding-left: 3rem;
+    }
+    .title h1{
+        font-size: 40px;
+    }
+    .title h2{
+        font-size: 16px;
+    }
+    .title p{
+        font-size: 16px;
+    }
+    input{
+       width: 14rem;
+    }
+}
+.enjoy_tv{
+    margin: 0;
+}
+.content_page h2{
+    font-size: 25px;
+    text-align: center;
+    /* justify-content: center; */
+}
+.content_page p{
+    text-align: center;
+}
+
+.download{
+    margin: 0;
+}
+.content_page2 h2{
+    font-size: 25px;
+    text-align: center;
+
+}
+.content_page2 p{
+    text-align: center;
+}
+
+.watch_everywhere{
+    margin: 0;
+}
+.content_page3 h2{
+    font-size: 25px;
+    text-align: center;
+}
+.content_page3 p{
+    text-align: center;
+}
+.create_profile{
+    margin: 0;
+}
+.content_page4 h2{
+    font-size: 25px;
+    text-align: center;
+}
+.content_page4 p{
+    text-align: center;
+
+}
+
+@media (max-width:450px){
+    .main_content{
+        padding-left: 2rem;
+    }
+    .net_icon img{
+        height: 20px;
+    }
+    .btn_lang p{
+        font-size: 12px;
+        display: none;
+    }
+
+    .title h1{
+        display: flex;
+        justify-content: flex-start;
+        font-size: 30px;
+        color: #fff;
+        font-weight: 900;
+        padding-bottom: 20px;
+    }
+    
+    .title h2{
+        font-size: 18px;
+        color: #fff;
+        padding-bottom: 25px;
+    
+    }
+    .title p{
+        font-size: 18px;
+        color: #fff;
+        padding-bottom: 16px;
+    
+    }
+}
+@media (max-width:415px){
+    .main_content{
+        padding-left: 1rem;
+    }
+    input{
+        width: 12rem;
+    }
+    .video{
+        height: 150px;
+    }
+}
+@media (max-width:385px){
+    .main_content{
+        padding-left: 1rem;
+    }
+}
