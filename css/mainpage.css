@@ -250,7 +250,7 @@ input{
     margin-bottom: 1rem;
   }
 
-  .input_email1 form button{
+  .input_email1 form{
     display: flex;
     justify-content: center;
     margin-bottom: 5rem;
